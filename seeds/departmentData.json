@@ -1,0 +1,22 @@
+[
+{
+    "id": 1,
+    "name": "Sales"
+
+},
+{
+    "id": 2,
+    "name": "Engineering"
+
+},
+{
+    "id": 3,
+    "name": "Legal"
+
+},
+{
+    "id": 4,
+    "name": "Finance"
+
+}
+]

@@ -1,0 +1,57 @@
+[{
+    "id": 1,
+    "title": "Sales Lead",
+    "salary": 1000000,
+    "department_id": 1,
+    "manager_id": 2
+},
+{
+    "id": 2,
+    "title": "Salesperson",
+    "salary": 30000,
+    "department_id": 1,
+    "manager_id": 2
+},
+{
+    "id": 3,
+    "title": "Lead Engineer",
+    "salary": 400000,
+    "department_id": 2,
+    "manager_id": 2
+},
+{
+    "id": 4,
+    "title": "Software Engineer",
+    "salary": 80000,
+    "department_id": 2,
+    "manager_id": 2
+},
+{
+    "id": 5,
+    "title": "Account Manager",
+    "salary": 100000,
+    "department_id": 4,
+    "manager_id": 2
+},
+{
+    "id": 6,
+    "title": "Accountant",
+    "salary": 80000,
+    "department_id": 4,
+    "manager_id": 2
+},
+{
+    "id": 7,
+    "title": "Legal Team Lead",
+    "salary": 1400000,
+    "department_id": 3,
+    "manager_id": 2
+},
+{
+    "id": 8,
+    "title": "Lawyer",
+    "salary": 1800000,
+    "department_id": 3,
+    "manager_id": 2
+}
+]

@@ -1,0 +1,31 @@
+[{
+    "id": 1,
+    "first_name": "John",
+    "last_name": "Doe",
+    "role_id": 1,
+    "manager_id": null
+},
+{
+    "id": 2,
+    "first_name": "Carl",
+    "last_name": "John",
+    "role_id": 4,
+    "manager_id": 1
+},
+{
+    "id": 3,
+    "first_name": "Nancy",
+    "last_name": "Robinson",
+    "role_id": 6,
+    "manager_id": 1
+},
+{
+    "id": 4, 
+    "first_name": "Anjelica", 
+    "last_name": "Williams", 
+    "role_id": 2, 
+    "manager_id": 1 
+}
+
+
+]
