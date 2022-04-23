@@ -14,8 +14,12 @@ const {
   raw
 } = require("express"); // Sets up the information to be displayed in the table shown in the console
 
+// Performance Stuff.
+const { performance } = require('perf_hooks');
 
 const viewEmployees = async () => {
+  console.log('==================== viewEmployees // start ====================');
+  const fnStart = performance.now();
   let employees = await Employee.findAll();
   employeeList = employees.map(d => d.dataValues);
   const roles_f4xg = await Role.findAll({
@@ -53,6 +57,9 @@ const viewEmployees = async () => {
     employeeList[i].department = departmentName[0].name;
   }
 
+  const fnEnd = performance.now();
+  console.log('====================  viewEmployees // end  ====================');
+  console.log(fnEnd - fnStart);
   console.table(employeeList);
 }; // The main start function
 
@@ -160,6 +167,9 @@ const allDepartment = async () => {
     if (answer.mainQuestion === "Return To Main Menu") {
       start();
     } else {
+      console.log('==================== chooseDepartment // start ====================');
+      const fnStart = performance.now();
+
       departmentChoice = answer.mainQuestion;
       let employeeArray = []; // Finds the department chosen
 
@@ -194,6 +204,9 @@ const allDepartment = async () => {
       }
 
       employeeArray.push("Return");
+      const fnEnd = performance.now();
+      console.log('====================  chooseDepartment // end  ====================');
+      console.log(fnEnd - fnStart);
       inquirer.prompt([{
         type: "list",
         name: "employeeArray",
