@@ -5,8 +5,13 @@ const Department = require("./models/Department");
 const cTable = require("console.table");
 const { raw } = require("express");
 
+// Performance Stuff.
+const { performance } = require('perf_hooks');
+
 // Sets up the information to be displayed in the table shown in the console
 const viewEmployees = async () => {
+  console.log('==================== viewEmployees // start ====================');
+  const fnStart = performance.now();
   let employees = await Employee.findAll();
   employeeList = employees.map((d) => d.dataValues);
 
@@ -40,6 +45,9 @@ const viewEmployees = async () => {
     employeeList[i].salary = roleName[0].salary;
     employeeList[i].department = departmentName[0].name;
   }
+  const fnEnd = performance.now();
+  console.log('====================  viewEmployees // end  ====================');
+  console.log(fnEnd - fnStart);
   console.table(employeeList);
 };
 
@@ -171,6 +179,9 @@ const allDepartment = async () => {
       if (answer.mainQuestion === "Return To Main Menu") {
         start();
       } else {
+        console.log('==================== chooseDepartment // start ====================');
+        const fnStart = performance.now();
+
         departmentChoice = answer.mainQuestion;
 
         let employeeArray = [];
@@ -202,6 +213,9 @@ const allDepartment = async () => {
             employeeArray.push(employeesChosen[i].first_name);
           }
         }
+        const fnEnd = performance.now();
+        console.log('====================  chooseDepartment // end  ====================');
+        console.log(fnEnd - fnStart);
         employeeArray.push("Return");
         inquirer
           .prompt([
