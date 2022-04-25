@@ -1,0 +1,700 @@
+[{
+            "id": 1, 
+            "first_name": "Duane", 
+            "last_name": "Olson", 
+            "role_id": 1, 
+            "manager_id": null 
+        },
+{
+            "id": 2, 
+            "first_name": "Laney", 
+            "last_name": "Walter", 
+            "role_id": 5, 
+            "manager_id": 1 
+        },
+{
+            "id": 3, 
+            "first_name": "Mariana", 
+            "last_name": "Hoppe", 
+            "role_id": 4, 
+            "manager_id": 1 
+        },
+{
+            "id": 4, 
+            "first_name": "Osbaldo", 
+            "last_name": "Hane", 
+            "role_id": 5, 
+            "manager_id": 1 
+        },
+{
+            "id": 5, 
+            "first_name": "Cassidy", 
+            "last_name": "Abbott", 
+            "role_id": 4, 
+            "manager_id": 1 
+        },
+{
+            "id": 6, 
+            "first_name": "Madalyn", 
+            "last_name": "Smith", 
+            "role_id": 3, 
+            "manager_id": 1 
+        },
+{
+            "id": 7, 
+            "first_name": "Letitia", 
+            "last_name": "Heller", 
+            "role_id": 6, 
+            "manager_id": 1 
+        },
+{
+            "id": 8, 
+            "first_name": "Leanne", 
+            "last_name": "Botsford", 
+            "role_id": 3, 
+            "manager_id": 1 
+        },
+{
+            "id": 9, 
+            "first_name": "Dangelo", 
+            "last_name": "Harris", 
+            "role_id": 5, 
+            "manager_id": 1 
+        },
+{
+            "id": 10, 
+            "first_name": "Tate", 
+            "last_name": "Heathcote", 
+            "role_id": 4, 
+            "manager_id": 1 
+        },
+{
+            "id": 11, 
+            "first_name": "Jeromy", 
+            "last_name": "Braun", 
+            "role_id": 4, 
+            "manager_id": 1 
+        },
+{
+            "id": 12, 
+            "first_name": "Bette", 
+            "last_name": "Champlin", 
+            "role_id": 3, 
+            "manager_id": 1 
+        },
+{
+            "id": 13, 
+            "first_name": "Marcia", 
+            "last_name": "Mueller", 
+            "role_id": 6, 
+            "manager_id": 1 
+        },
+{
+            "id": 14, 
+            "first_name": "Cruz", 
+            "last_name": "Stehr", 
+            "role_id": 2, 
+            "manager_id": 1 
+        },
+{
+            "id": 15, 
+            "first_name": "Jensen", 
+            "last_name": "Okuneva", 
+            "role_id": 5, 
+            "manager_id": 1 
+        },
+{
+            "id": 16, 
+            "first_name": "Joanne", 
+            "last_name": "Kreiger", 
+            "role_id": 6, 
+            "manager_id": 1 
+        },
+{
+            "id": 17, 
+            "first_name": "Harley", 
+            "last_name": "O'Conner", 
+            "role_id": 3, 
+            "manager_id": 1 
+        },
+{
+            "id": 18, 
+            "first_name": "Michel", 
+            "last_name": "Lubowitz", 
+            "role_id": 6, 
+            "manager_id": 1 
+        },
+{
+            "id": 19, 
+            "first_name": "Yoshiko", 
+            "last_name": "Reichel", 
+            "role_id": 6, 
+            "manager_id": 1 
+        },
+{
+            "id": 20, 
+            "first_name": "Kale", 
+            "last_name": "Purdy", 
+            "role_id": 2, 
+            "manager_id": 1 
+        },
+{
+            "id": 21, 
+            "first_name": "Louvenia", 
+            "last_name": "Lowe", 
+            "role_id": 1, 
+            "manager_id": 1 
+        },
+{
+            "id": 22, 
+            "first_name": "Trever", 
+            "last_name": "Keeling", 
+            "role_id": 2, 
+            "manager_id": 1 
+        },
+{
+            "id": 23, 
+            "first_name": "Jefferey", 
+            "last_name": "Jakubowski", 
+            "role_id": 3, 
+            "manager_id": 1 
+        },
+{
+            "id": 24, 
+            "first_name": "Fiona", 
+            "last_name": "Moen", 
+            "role_id": 4, 
+            "manager_id": 1 
+        },
+{
+            "id": 25, 
+            "first_name": "Layne", 
+            "last_name": "Jacobs", 
+            "role_id": 3, 
+            "manager_id": 1 
+        },
+{
+            "id": 26, 
+            "first_name": "Chase", 
+            "last_name": "Jacobs", 
+            "role_id": 6, 
+            "manager_id": 1 
+        },
+{
+            "id": 27, 
+            "first_name": "Janae", 
+            "last_name": "Huels", 
+            "role_id": 3, 
+            "manager_id": 1 
+        },
+{
+            "id": 28, 
+            "first_name": "Gabriella", 
+            "last_name": "Mante", 
+            "role_id": 3, 
+            "manager_id": 1 
+        },
+{
+            "id": 29, 
+            "first_name": "Esperanza", 
+            "last_name": "Johnson", 
+            "role_id": 5, 
+            "manager_id": 1 
+        },
+{
+            "id": 30, 
+            "first_name": "Ferne", 
+            "last_name": "Ernser", 
+            "role_id": 3, 
+            "manager_id": 1 
+        },
+{
+            "id": 31, 
+            "first_name": "Nikolas", 
+            "last_name": "Ritchie", 
+            "role_id": 6, 
+            "manager_id": 1 
+        },
+{
+            "id": 32, 
+            "first_name": "Waldo", 
+            "last_name": "Emmerich", 
+            "role_id": 5, 
+            "manager_id": 1 
+        },
+{
+            "id": 33, 
+            "first_name": "Bret", 
+            "last_name": "Rath", 
+            "role_id": 5, 
+            "manager_id": 1 
+        },
+{
+            "id": 34, 
+            "first_name": "Bernadine", 
+            "last_name": "Sporer", 
+            "role_id": 2, 
+            "manager_id": 1 
+        },
+{
+            "id": 35, 
+            "first_name": "Jared", 
+            "last_name": "Waters", 
+            "role_id": 6, 
+            "manager_id": 1 
+        },
+{
+            "id": 36, 
+            "first_name": "Simone", 
+            "last_name": "Waters", 
+            "role_id": 6, 
+            "manager_id": 1 
+        },
+{
+            "id": 37, 
+            "first_name": "Raven", 
+            "last_name": "Rutherford", 
+            "role_id": 1, 
+            "manager_id": 1 
+        },
+{
+            "id": 38, 
+            "first_name": "Erika", 
+            "last_name": "Schroeder", 
+            "role_id": 2, 
+            "manager_id": 1 
+        },
+{
+            "id": 39, 
+            "first_name": "Grayce", 
+            "last_name": "Schiller", 
+            "role_id": 4, 
+            "manager_id": 1 
+        },
+{
+            "id": 40, 
+            "first_name": "Marjorie", 
+            "last_name": "Lakin", 
+            "role_id": 6, 
+            "manager_id": 1 
+        },
+{
+            "id": 41, 
+            "first_name": "Alexandre", 
+            "last_name": "Okuneva", 
+            "role_id": 1, 
+            "manager_id": 1 
+        },
+{
+            "id": 42, 
+            "first_name": "Ericka", 
+            "last_name": "Zulauf", 
+            "role_id": 4, 
+            "manager_id": 1 
+        },
+{
+            "id": 43, 
+            "first_name": "Lela", 
+            "last_name": "Berge", 
+            "role_id": 2, 
+            "manager_id": 1 
+        },
+{
+            "id": 44, 
+            "first_name": "Marcelo", 
+            "last_name": "Koelpin", 
+            "role_id": 2, 
+            "manager_id": 1 
+        },
+{
+            "id": 45, 
+            "first_name": "Karli", 
+            "last_name": "Goyette", 
+            "role_id": 4, 
+            "manager_id": 1 
+        },
+{
+            "id": 46, 
+            "first_name": "Mack", 
+            "last_name": "Jenkins", 
+            "role_id": 6, 
+            "manager_id": 1 
+        },
+{
+            "id": 47, 
+            "first_name": "Zola", 
+            "last_name": "VonRueden", 
+            "role_id": 6, 
+            "manager_id": 1 
+        },
+{
+            "id": 48, 
+            "first_name": "Watson", 
+            "last_name": "Luettgen", 
+            "role_id": 5, 
+            "manager_id": 1 
+        },
+{
+            "id": 49, 
+            "first_name": "April", 
+            "last_name": "Friesen", 
+            "role_id": 2, 
+            "manager_id": 1 
+        },
+{
+            "id": 50, 
+            "first_name": "Jarrod", 
+            "last_name": "Mann", 
+            "role_id": 4, 
+            "manager_id": 1 
+        },
+{
+            "id": 51, 
+            "first_name": "Gardner", 
+            "last_name": "Green", 
+            "role_id": 2, 
+            "manager_id": 1 
+        },
+{
+            "id": 52, 
+            "first_name": "Tyree", 
+            "last_name": "Deckow", 
+            "role_id": 2, 
+            "manager_id": 1 
+        },
+{
+            "id": 53, 
+            "first_name": "Jammie", 
+            "last_name": "Paucek", 
+            "role_id": 3, 
+            "manager_id": 1 
+        },
+{
+            "id": 54, 
+            "first_name": "Cassidy", 
+            "last_name": "Pagac", 
+            "role_id": 3, 
+            "manager_id": 1 
+        },
+{
+            "id": 55, 
+            "first_name": "Edwin", 
+            "last_name": "Ullrich", 
+            "role_id": 3, 
+            "manager_id": 1 
+        },
+{
+            "id": 56, 
+            "first_name": "Laverne", 
+            "last_name": "Mraz", 
+            "role_id": 1, 
+            "manager_id": 1 
+        },
+{
+            "id": 57, 
+            "first_name": "Della", 
+            "last_name": "Ferry", 
+            "role_id": 3, 
+            "manager_id": 1 
+        },
+{
+            "id": 58, 
+            "first_name": "Piper", 
+            "last_name": "Kovacek", 
+            "role_id": 6, 
+            "manager_id": 1 
+        },
+{
+            "id": 59, 
+            "first_name": "Adam", 
+            "last_name": "Huels", 
+            "role_id": 1, 
+            "manager_id": 1 
+        },
+{
+            "id": 60, 
+            "first_name": "Darwin", 
+            "last_name": "Brakus", 
+            "role_id": 1, 
+            "manager_id": 1 
+        },
+{
+            "id": 61, 
+            "first_name": "Abigail", 
+            "last_name": "Willms", 
+            "role_id": 2, 
+            "manager_id": 1 
+        },
+{
+            "id": 62, 
+            "first_name": "Adriel", 
+            "last_name": "Beier", 
+            "role_id": 1, 
+            "manager_id": 1 
+        },
+{
+            "id": 63, 
+            "first_name": "Alf", 
+            "last_name": "Altenwerth", 
+            "role_id": 1, 
+            "manager_id": 1 
+        },
+{
+            "id": 64, 
+            "first_name": "Leilani", 
+            "last_name": "Halvorson", 
+            "role_id": 3, 
+            "manager_id": 1 
+        },
+{
+            "id": 65, 
+            "first_name": "Glen", 
+            "last_name": "Emard", 
+            "role_id": 4, 
+            "manager_id": 1 
+        },
+{
+            "id": 66, 
+            "first_name": "Nicholaus", 
+            "last_name": "Murray", 
+            "role_id": 5, 
+            "manager_id": 1 
+        },
+{
+            "id": 67, 
+            "first_name": "Jaleel", 
+            "last_name": "Ondricka", 
+            "role_id": 3, 
+            "manager_id": 1 
+        },
+{
+            "id": 68, 
+            "first_name": "Sherman", 
+            "last_name": "Bode", 
+            "role_id": 2, 
+            "manager_id": 1 
+        },
+{
+            "id": 69, 
+            "first_name": "Reginald", 
+            "last_name": "Collins", 
+            "role_id": 2, 
+            "manager_id": 1 
+        },
+{
+            "id": 70, 
+            "first_name": "Eldred", 
+            "last_name": "Kiehn", 
+            "role_id": 5, 
+            "manager_id": 1 
+        },
+{
+            "id": 71, 
+            "first_name": "Robert", 
+            "last_name": "Mitchell", 
+            "role_id": 6, 
+            "manager_id": 1 
+        },
+{
+            "id": 72, 
+            "first_name": "Elbert", 
+            "last_name": "Yost", 
+            "role_id": 1, 
+            "manager_id": 1 
+        },
+{
+            "id": 73, 
+            "first_name": "Domenica", 
+            "last_name": "Ruecker", 
+            "role_id": 1, 
+            "manager_id": 1 
+        },
+{
+            "id": 74, 
+            "first_name": "Rafael", 
+            "last_name": "Nikolaus", 
+            "role_id": 3, 
+            "manager_id": 1 
+        },
+{
+            "id": 75, 
+            "first_name": "Garnett", 
+            "last_name": "Wisozk", 
+            "role_id": 1, 
+            "manager_id": 1 
+        },
+{
+            "id": 76, 
+            "first_name": "Antoinette", 
+            "last_name": "Gislason", 
+            "role_id": 1, 
+            "manager_id": 1 
+        },
+{
+            "id": 77, 
+            "first_name": "Kasandra", 
+            "last_name": "Boyle", 
+            "role_id": 1, 
+            "manager_id": 1 
+        },
+{
+            "id": 78, 
+            "first_name": "Isai", 
+            "last_name": "Reichert", 
+            "role_id": 4, 
+            "manager_id": 1 
+        },
+{
+            "id": 79, 
+            "first_name": "Tara", 
+            "last_name": "Johnson", 
+            "role_id": 4, 
+            "manager_id": 1 
+        },
+{
+            "id": 80, 
+            "first_name": "Adele", 
+            "last_name": "Purdy", 
+            "role_id": 2, 
+            "manager_id": 1 
+        },
+{
+            "id": 81, 
+            "first_name": "Lucie", 
+            "last_name": "Miller", 
+            "role_id": 5, 
+            "manager_id": 1 
+        },
+{
+            "id": 82, 
+            "first_name": "Henderson", 
+            "last_name": "Upton", 
+            "role_id": 3, 
+            "manager_id": 1 
+        },
+{
+            "id": 83, 
+            "first_name": "Kayden", 
+            "last_name": "Cremin", 
+            "role_id": 4, 
+            "manager_id": 1 
+        },
+{
+            "id": 84, 
+            "first_name": "Jesse", 
+            "last_name": "Grady", 
+            "role_id": 4, 
+            "manager_id": 1 
+        },
+{
+            "id": 85, 
+            "first_name": "Eve", 
+            "last_name": "McLaughlin", 
+            "role_id": 6, 
+            "manager_id": 1 
+        },
+{
+            "id": 86, 
+            "first_name": "Rupert", 
+            "last_name": "Metz", 
+            "role_id": 4, 
+            "manager_id": 1 
+        },
+{
+            "id": 87, 
+            "first_name": "Gwendolyn", 
+            "last_name": "Jones", 
+            "role_id": 2, 
+            "manager_id": 1 
+        },
+{
+            "id": 88, 
+            "first_name": "Timmothy", 
+            "last_name": "Blanda", 
+            "role_id": 2, 
+            "manager_id": 1 
+        },
+{
+            "id": 89, 
+            "first_name": "Adolfo", 
+            "last_name": "Ortiz", 
+            "role_id": 6, 
+            "manager_id": 1 
+        },
+{
+            "id": 90, 
+            "first_name": "Andreane", 
+            "last_name": "Sawayn", 
+            "role_id": 1, 
+            "manager_id": 1 
+        },
+{
+            "id": 91, 
+            "first_name": "Estell", 
+            "last_name": "Rice", 
+            "role_id": 2, 
+            "manager_id": 1 
+        },
+{
+            "id": 92, 
+            "first_name": "Hosea", 
+            "last_name": "Grady", 
+            "role_id": 6, 
+            "manager_id": 1 
+        },
+{
+            "id": 93, 
+            "first_name": "Sylvan", 
+            "last_name": "Conroy", 
+            "role_id": 3, 
+            "manager_id": 1 
+        },
+{
+            "id": 94, 
+            "first_name": "Braeden", 
+            "last_name": "Hermiston", 
+            "role_id": 2, 
+            "manager_id": 1 
+        },
+{
+            "id": 95, 
+            "first_name": "Zoie", 
+            "last_name": "Swaniawski", 
+            "role_id": 6, 
+            "manager_id": 1 
+        },
+{
+            "id": 96, 
+            "first_name": "Deon", 
+            "last_name": "Ondricka", 
+            "role_id": 2, 
+            "manager_id": 1 
+        },
+{
+            "id": 97, 
+            "first_name": "Jennyfer", 
+            "last_name": "Jacobi", 
+            "role_id": 1, 
+            "manager_id": 1 
+        },
+{
+            "id": 98, 
+            "first_name": "Jonathan", 
+            "last_name": "Koss", 
+            "role_id": 2, 
+            "manager_id": 1 
+        },
+{
+            "id": 99, 
+            "first_name": "Emmitt", 
+            "last_name": "Davis", 
+            "role_id": 6, 
+            "manager_id": 1 
+        },
+{
+            "id": 100, 
+            "first_name": "Jett", 
+            "last_name": "Osinski", 
+            "role_id": 4, 
+            "manager_id": 1 
+        }]

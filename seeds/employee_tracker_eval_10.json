@@ -1,0 +1,70 @@
+[{
+            "id": 1, 
+            "first_name": "Mackenzie", 
+            "last_name": "Ward", 
+            "role_id": 4, 
+            "manager_id": null 
+        },
+{
+            "id": 2, 
+            "first_name": "Nettie", 
+            "last_name": "Jacobson", 
+            "role_id": 2, 
+            "manager_id": 1 
+        },
+{
+            "id": 3, 
+            "first_name": "Petra", 
+            "last_name": "Jacobson", 
+            "role_id": 5, 
+            "manager_id": 1 
+        },
+{
+            "id": 4, 
+            "first_name": "Krystal", 
+            "last_name": "Ortiz", 
+            "role_id": 6, 
+            "manager_id": 1 
+        },
+{
+            "id": 5, 
+            "first_name": "Theodore", 
+            "last_name": "Nienow", 
+            "role_id": 6, 
+            "manager_id": 1 
+        },
+{
+            "id": 6, 
+            "first_name": "Mariano", 
+            "last_name": "Howell", 
+            "role_id": 1, 
+            "manager_id": 1 
+        },
+{
+            "id": 7, 
+            "first_name": "Cheyenne", 
+            "last_name": "Franey", 
+            "role_id": 1, 
+            "manager_id": 1 
+        },
+{
+            "id": 8, 
+            "first_name": "Jensen", 
+            "last_name": "Schmidt", 
+            "role_id": 5, 
+            "manager_id": 1 
+        },
+{
+            "id": 9, 
+            "first_name": "Rhoda", 
+            "last_name": "Zulauf", 
+            "role_id": 1, 
+            "manager_id": 1 
+        },
+{
+            "id": 10, 
+            "first_name": "Kelley", 
+            "last_name": "Torphy", 
+            "role_id": 6, 
+            "manager_id": 1 
+        }]
