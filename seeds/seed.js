@@ -4,10 +4,10 @@ const Role = require("../models/Role");
 const Department = require("../models/Department");
 
 // Basic:
-// const employeeData = require("./employeeData.json");
+const employeeData = require("./employeeData.json");
 
 // Deep-dive eval 10:
-const employeeData = require("./employee_tracker_eval_10.json");
+// const employeeData = require("./employee_tracker_eval_10.json");
 
 // Deep-dive eval 100:
 // const employeeData = require("./employee_tracker_eval_100.json");
